@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @snowyru
 - 👀 I’m interested in ... HNT
-- 🌱 I’m currently learning ... HTML, CSS, bootstrap, Js and py (fullstack coding)
+- 🌱 I’m currently learning ... MERN stack
 - 💞️ I’m looking to collaborate on ... does anyone use delphi?
 - 📫 How to reach me ... Discord Snowyru#6404 
