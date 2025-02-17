@@ -1,7 +1,7 @@
 # Welcome to my land of projects that made it into the sunlight!
 ## Still in development
 
-👋 Hi there! I'm snowy, a passionate software developer with a knack for coding as efficiently as possible.
+👋 Hi there! I'm snowy, a passionate software developer with a knack for coding projects as efficiently as possible so I can debug my dotfiles instead.
 
 ![GitHub followers](https://img.shields.io/github/followers/snowyru?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/snowyru?label=Stars&style=social)
