@@ -35,8 +35,7 @@ Here is my university acocunt (230500226)
 - **Tools**: Git, Docker, Neovim
 
 ## 🔥 Projects
-- [Project Name](https://github.com/your-username/project-name) - Brief description
-- [Another Project](https://github.com/your-username/another-project) - Brief description
+- [Sum surge](https://github.com/users/snowyru/projects/2) - Brief description
 
 ## 📫 Contact Me
 - Email: [shahied@mrrustin.com](mailto:shahied@mrrustin.com)
