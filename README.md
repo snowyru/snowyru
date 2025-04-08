@@ -35,7 +35,7 @@ Here is my university acocunt (230500226)
 - **Tools**: Git, Docker, Neovim
 
 ## 🔥 Projects
-- [Sum surge](https://github.com/users/snowyru/projects/2) - Brief description
+- [Sum surge](https://github.com/users/snowyru/projects/2) - 1st, winning hackathon project
 
 ## 📫 Contact Me
 - Email: [shahied@mrrustin.com](mailto:shahied@mrrustin.com)
