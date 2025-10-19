@@ -37,9 +37,4 @@ Here is my university acocunt (230500226)
 ## 🔥 Projects
 - [Sum surge](https://github.com/users/snowyru/projects/2) - 1st, winning hackathon project
 
-## 📫 Contact Me
-- Email: [shahied@mrrustin.com](mailto:shahied@mrrustin.com)
-- LinkedIn: [Snowyru](https://linkedin.com/in/snowyru)
-
-## 📝 Recent Blog Posts
-- [Shahied](https://mrrustin.com) - A brief description of the post
+*** INPROGRESS ***
